@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LC125",
+            "request": "launch",
+            "mainClass": "LC125",
+            "projectName": "LeetCode_8cc51898"
+        }
+    ]
+}
