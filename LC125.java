@@ -1,10 +1,11 @@
 class LC125 {
 
+
     public static void main(String[] args) {
         
         //System.out.println("Hellow");
   
-        System.out.println(isPalindrome("ab2a"));
+        System.out.println(isPalindrome("abaaab"));
 
 
     }
@@ -12,18 +13,19 @@ class LC125 {
     public static boolean isPalindrome(String s) {
         s = s.toLowerCase();
         int last = s.length()-1;
-        int len = s.length(), cycle = 0;
         int front = 0;
-     
+        int skipped = 0;
         while(front<last) {
-            if(Character.isLetter(s.charAt(front)) != true && Character.isDigit(s.charAt(front)) != true){
-                front++;
-              //continue;
-            } else if (Character.isLetter(s.charAt(last)) != true && Character.isDigit(s.charAt(last)) != true) {
-                last--;
-                //continue;
-            } else if (s.charAt(front) == s.charAt(last)){
+            
+            if (s.charAt(front) == s.charAt(last)) {
                 front++;last--;
+            } else if(s.charAt(front) != s.charAt(last) && skipped == 0){
+                if(s.charAt(front+1) == s.charAt(last)) {
+                    front++; skipped = 1;
+                } else {
+                    last--; skipped =1;
+                }
+                
             } else {
                 return false;
             }

@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Lc5",
+            "request": "launch",
+            "mainClass": "Lc5",
+            "projectName": "LeetCode_8cc51898"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LC680",
+            "request": "launch",
+            "mainClass": "LC680",
+            "projectName": "LeetCode_8cc51898"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - LC125",
             "request": "launch",
             "mainClass": "LC125",
