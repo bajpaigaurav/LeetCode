@@ -2,6 +2,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "LeetCode_8cc51898"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CFAprilLong",
+            "request": "launch",
+            "mainClass": "CFAprilLong",
+            "projectName": "LeetCode_8cc51898"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solution322",
+            "request": "launch",
+            "mainClass": "Solution322",
+            "projectName": "LeetCode_8cc51898"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solution238",
+            "request": "launch",
+            "mainClass": "Solution238",
+            "projectName": "LeetCode_8cc51898"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SolutionLC217",
+            "request": "launch",
+            "mainClass": "SolutionLC217",
+            "projectName": "LeetCode_8cc51898"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "LeetCode_8cc51898"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ClimbingStairs",
+            "request": "launch",
+            "mainClass": "ClimbingStairs",
+            "projectName": "LeetCode_8cc51898"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - UniqueCharactersSubstring",
+            "request": "launch",
+            "mainClass": "UniqueCharactersSubstring",
+            "projectName": "LeetCode_8cc51898"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Lc5",
             "request": "launch",
             "mainClass": "Lc5",
