@@ -2,6 +2,125 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ChefCookOff2",
+            "request": "launch",
+            "mainClass": "ChefCookOff2",
+            "projectName": "LeetCode_8cc51898"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ChefCLPT",
+            "request": "launch",
+            "mainClass": "ChefCLPT",
+            "projectName": "LeetCode_8cc51898"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ChefChefVDoof",
+            "request": "launch",
+            "mainClass": "ChefChefVDoof",
+            "projectName": "LeetCode_8cc51898"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ChefCardGame",
+            "request": "launch",
+            "mainClass": "ChefCardGame",
+            "projectName": "LeetCode_8cc51898"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ChefSwaps",
+            "request": "launch",
+            "mainClass": "ChefSwaps",
+            "projectName": "LeetCode_8cc51898"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ChefMissingApoint",
+            "request": "launch",
+            "mainClass": "ChefMissingApoint",
+            "projectName": "LeetCode_8cc51898"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ChefAdaKing",
+            "request": "launch",
+            "mainClass": "ChefAdaKing",
+            "projectName": "LeetCode_8cc51898"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ChefSTR",
+            "request": "launch",
+            "mainClass": "ChefSTR",
+            "projectName": "LeetCode_8cc51898"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Dummy",
+            "request": "launch",
+            "mainClass": "Dummy",
+            "projectName": "LeetCode_8cc51898"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - lunchtime2",
+            "request": "launch",
+            "mainClass": "lunchtime2",
+            "projectName": "LeetCode_8cc51898"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ChefTutple",
+            "request": "launch",
+            "mainClass": "ChefTutple",
+            "projectName": "LeetCode_8cc51898"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ChefMatJune",
+            "request": "launch",
+            "mainClass": "ChefMatJune",
+            "projectName": "LeetCode_8cc51898"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CHEFEOEO2",
+            "request": "launch",
+            "mainClass": "CHEFEOEO2",
+            "projectName": "LeetCode_8cc51898"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ChefEOEO",
+            "request": "launch",
+            "mainClass": "ChefEOEO",
+            "projectName": "LeetCode_8cc51898"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ChefCHFICRM",
+            "request": "launch",
+            "mainClass": "ChefCHFICRM",
+            "projectName": "LeetCode_8cc51898"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ChefXYSTR",
+            "request": "launch",
+            "mainClass": "ChefXYSTR",
+            "projectName": "LeetCode_8cc51898"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Pricecon",
+            "request": "launch",
+            "mainClass": "Pricecon",
+            "projectName": "LeetCode_8cc51898"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Test",
             "request": "launch",
             "mainClass": "Test",

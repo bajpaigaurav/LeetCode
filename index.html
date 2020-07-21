@@ -1,27 +1,28 @@
 <html>
 
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"> </script>
+
+    <script>
+  $(function () {
+            $("#includedContent").load("http://alpha-101.s3-website-us-east-1.amazonaws.com/b.html");
+        });
+
+    </script>
+      
+   
+</head>
 
 <h1>
 
-hellow world
+    hellow world
 
 </h1>
 
-<img id="id1" src="" alt="">
+<img src="http://alpha-101.s3-website-us-east-1.amazonaws.com/wahtaj.jpeg" alt="the taj ">
 
-<script>
-
-var _img = document.getElementById('id1');
-var newImg = new Image;
-newImg.onload = function() {
-    _img.src = this.src;
-}
-newImg.src = 'https://devops-102.s3.amazonaws.com/wahtaj.jpeg';
-</script>
- <body>
-     
-
-    
- </body>
+<body>
+    <div id="includedContent"></div>
+</body>
 
 </html>
